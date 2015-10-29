@@ -90,8 +90,6 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 ![placeholder](http://p6.qhimg.com/t01961dfc5e21b225a9.jpg "Large example image")
-![placeholder](http://p6.qhimg.com/t01961dfc5e21b225a9.jpg "Medium example image")
-![placeholder](http://p6.qhimg.com/t01961dfc5e21b225a9.jpg "Small example image")
 
 ### Tables
 
