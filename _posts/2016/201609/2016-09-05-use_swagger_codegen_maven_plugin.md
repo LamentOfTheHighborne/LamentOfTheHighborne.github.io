@@ -1,3 +1,8 @@
+---
+layout: post
+title: use swagger codegen maven plugin to generator retrofit2 client code
+---
+-----
 # 使用swagger codegen maven plugin生成retrofit2代码
 ### 创建一个maven工程，在pom文件中引入plugin，如下
 
